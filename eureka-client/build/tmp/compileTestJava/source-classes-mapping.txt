@@ -1,0 +1,4 @@
+me/soomin/eurekaclient/controller/AccountApiImplTest.java
+ me.soomin.eurekaclient.controller.AccountApiImplTest
+me/soomin/eurekaclient/EurekaClientApplicationTests.java
+ me.soomin.eurekaclient.EurekaClientApplicationTests

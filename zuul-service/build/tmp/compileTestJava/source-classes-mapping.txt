@@ -1,0 +1,2 @@
+me/soomin/zuulservice/ZuulServiceApplicationTests.java
+ me.soomin.zuulservice.ZuulServiceApplicationTests
